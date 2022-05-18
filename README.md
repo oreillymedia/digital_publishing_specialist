@@ -8,17 +8,13 @@ Please create a file containing your answers and send it along with the files yo
 
 ## Exercise 1
 
-Make a copy of and modify the XSL file located at _exercise1/sample.xsl_ so that it removes all `<span>` elements with no attributes and transforms all `<b>` elements to `<strong>` elements.
+Create a GitHub account if you don’t already have one. Clone down this repo, checkout a new branch, commit a change to the file _exercise3/this\_is\_a\_test.asciidoc_ in your branch (you can change anything you’d like), push your branch to GitHub, and submit a pull request.
 
 ## Exercise 2
 
 Make a copy of the files located in the _exercise2_ directory. Based on the output in _epub\_build\_log.txt_ and _pdf\_build\_log.txt_, make changes to the Asciidoc files to fix the indicated errors.
 
 ## Exercise 3
-
-Create a GitHub account if you don’t already have one. Clone down this repo, checkout a new branch, commit a change to the file _exercise3/this\_is\_a\_test.asciidoc_ in your branch (you can change anything you’d like), push your branch to GitHub, and submit a pull request.
-
-## Exercise 4
 
 The Tools team received the following question regarding AsciiDoc markup from an O’Reilly author:
 
@@ -42,6 +38,10 @@ The Tools team received the following question regarding AsciiDoc markup from an
 > Tobias
 
 Using the [Atlas AsciiDoc documentation](https://docs.atlas.oreilly.com/writing_in_asciidoc.html) as a reference, please write an email response to Tobias that answers his question.
+
+## Exercise 4
+
+Make a copy of and modify the XSL file located at _exercise1/sample.xsl_ so that it removes all `<span>` elements with no attributes and transforms all `<b>` elements to `<strong>` elements in a target HTML file.
 
 ## Exercise 5
 
