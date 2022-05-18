@@ -12,7 +12,7 @@ Make a copy of and modify the XSL file located at _exercise1/sample.xsl_ so that
 
 ## Exercise 2
 
-Make a copy of the files located in the _exercise2_ directory. Based on the output in _build\_log.txt_, make changes to the HTML files to fix the indicated errors.
+Make a copy of the files located in the _exercise2_ directory. Based on the output in _epub\_build\_log.txt_ and _pdf\_build\_log.txt_, make changes to the Asciidoc files to fix the indicated errors.
 
 ## Exercise 3
 
