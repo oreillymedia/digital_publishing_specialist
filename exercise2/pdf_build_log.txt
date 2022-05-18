@@ -1,0 +1,9 @@
+Warn:
+WARNING: Unable to locate target for XREF with @href value: #kotlin_mouse_id
+WARNING: Unable to locate target for XREF with @href value: #kotlin_mouse_id
+WARNING: Unable to locate target for XREF with @href value: #kotlin_mouse_id
+AHFCmd :WARNING: Error Level : 2 AHFCmd :WARNING: Error Code : 10768 (2A10) AHFCmd :WARNING: Duplicate id value: id="java_mouse_id". AHFCmd :WARNING: Line 1733, Col 44, e62a8045ab6654f857da565e.html
+AHFCmd :WARNING: Error Level : 2 AHFCmd :WARNING: Error Code : 18948 (4A04) AHFCmd :WARNING: Graphic file is not found: "pawk_0201.jpg" AHFCmd :WARNING: e62a8045ab6654f857da565e.html
+
+Error:
+The ID "java_mouse_id" occurs in ch01.asciidoc on lines: 867, 895

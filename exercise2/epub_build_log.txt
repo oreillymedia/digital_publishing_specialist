@@ -1,0 +1,22 @@
+Error
+
+ERROR Unable to copy file pawk_0201.jpg into EPUB: [Errno 2] No such file or directory: 'images/pawk_0201.jpg'
+
+Warn
+
+WARNING Unable to locate target for XREF with @href value:#kotlin_mouse_id
+WARNING Unable to locate target for XREF with @href value:#kotlin_mouse_id
+WARNING Unable to locate target for XREF with @href value:#kotlin_mouse_id
+
+WARNING Epubcheck output: "Validating using EPUB version 3.2 rules.
+ERROR(RSC-001): HTML.epub(-1,-1): File 'OEBPS/assets/pawk_0201.jpg' could not be found.
+ERROR(RSC-005): HTML.epub/OEBPS/ch01.html(917,45): Error while parsing file: Duplicate ID 'java_mouse_id'
+ERROR(RSC-005): HTML.epub/OEBPS/ch01.html(940,45): Error while parsing file: Duplicate ID 'java_mouse_id'
+ERROR(RSC-012): HTML.epub/OEBPS/ch01.html(939,45): Fragment identifier is not defined.
+ERROR(RSC-012): HTML.epub/OEBPS/ch01.html(955,72): Fragment identifier is not defined.
+ERROR(RSC-012): HTML.epub/OEBPS/ch01.html(993,85): Fragment identifier is not defined.
+
+Check finished with errors
+Messages: 0 fatals / 6 errors / 8 warnings / 0 infos
+
+EPUBCheck completed
