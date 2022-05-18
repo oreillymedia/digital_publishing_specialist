@@ -8,7 +8,7 @@ Please create a file containing your answers and send it along with the files yo
 
 ## Exercise 1
 
-Create a GitHub account if you don’t already have one. Clone down this repo, checkout a new branch, commit a change to the file _exercise3/this\_is\_a\_test.asciidoc_ in your branch (you can change anything you’d like), push your branch to GitHub, and submit a pull request.
+Create a GitHub account if you don’t already have one. Clone down this repo, checkout a new branch, commit a change to the file _exercise1/this\_is\_a\_test.asciidoc_ in your branch (you can change anything you’d like), push your branch to GitHub, and submit a pull request.
 
 ## Exercise 2
 
@@ -41,7 +41,7 @@ Using the [Atlas AsciiDoc documentation](https://docs.atlas.oreilly.com/writing_
 
 ## Exercise 4
 
-Make a copy of and modify the XSL file located at _exercise1/sample.xsl_ so that it removes all `<span>` elements with no attributes and transforms all `<b>` elements to `<strong>` elements in a target HTML file.
+Make a copy of and modify the XSL file located at _exercise4/sample.xsl_ so that it removes all `<span>` elements with no attributes and transforms all `<b>` elements to `<strong>` elements in a target HTML file.
 
 ## Exercise 5
 
