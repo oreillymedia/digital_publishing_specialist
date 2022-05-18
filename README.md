@@ -4,7 +4,7 @@ Please answer the following questions to the best of your abilities. Feel free t
 
 Please note that we are just as interested in the problem-solving processes with which you approach these exercises as we are in your solutions. If you get stuck on any of these questions, please indicate the steps you took, the point at which you encountered difficulties, and what further action you think would be needed to complete the task.
 
-Please create a file containing your answers and send it along with the files you create for Exercises 1 and 2.
+Please create a file containing your answers and send it along with the files you create for Exercises 2 and 4.
 
 ## Exercise 1
 
