@@ -42,7 +42,3 @@ Using the [Atlas AsciiDoc documentation](https://docs.atlas.oreilly.com/writing_
 ## Exercise 4
 
 Make a copy of and modify the XSL file located at _exercise4/sample.xsl_ so that it removes all `<span>` elements with no attributes and transforms all `<b>` elements to `<strong>` elements in a target HTML file.
-
-## Exercise 5
-
-In 140 characters or less, please tell us why you’re interested in joining the O’Reilly Tools team.
