@@ -16,7 +16,7 @@ Make a copy of the files located in the _exercise2_ directory. Based on the outp
 
 ## Exercise 3
 
-Create a GitHub account if you don’t already have one. Clone down this repo, checkout a new branch, commit a change to the file _exercise3/this\_is\_a\_test.asciidoc_ in your branch(you can change anything you’d like), push your branch to GitHub, and submit a pull request.
+Create a GitHub account if you don’t already have one. Clone down this repo, checkout a new branch, commit a change to the file _exercise3/this\_is\_a\_test.asciidoc_ in your branch (you can change anything you’d like), push your branch to GitHub, and submit a pull request.
 
 ## Exercise 4
 
