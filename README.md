@@ -8,7 +8,7 @@ Please create a file containing your answers and send it along with the files yo
 
 ## Exercise 1
 
-Create a GitHub account if you don’t already have one. Clone down this repo, checkout a new branch, commit a change to the file _exercise1/this\_is\_a\_test.asciidoc_ in your branch (you can change anything you’d like), push your branch to GitHub, and submit a pull request.
+Create a GitHub account if you don’t already have one. Fork the repo to your account, commit a change to the file _exercise1/this\_is\_a\_test.asciidoc_ in your fork (you can change anything you’d like), and submit a pull request.
 
 ## Exercise 2
 
